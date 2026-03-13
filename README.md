@@ -1,6 +1,35 @@
 # 💫 About Me:
-## Hi there 👋<br><br>## 👨‍💻 Who I Am<br><br>I'm John Carlo, an aspiring **Full-Stack Developer** and an Information Technology student. I enjoy building web applications and learning how systems work behind the scenes.<br><br>## 🚀 Currently Working On<br><br>* Improving my skills in **React** and **Laravel**<br>* Building personal projects<br>* Learning **System Design** and backend fundamentals<br><br>## 🛠 Tools & Technologies<br><br>* JavaScript<br>* React<br>* PHP<br>* Laravel<br>* MySQL<br>* Git & GitHub<br><br>## 📫 How to Reach Me<br><br>* Email: johncarlobacolod7@gmail.com<br>* LinkedIn: https://www.linkedin.com/in/john-carlo-bacolod-98a09b377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>* Portfolio: Still in development😅<br><br>---<br><br>*Learning by building and improving every day.*<br>
 
+# Hi there 👋
+
+## 👨‍💻 Who I Am
+
+I'm **Boss [Your Last Name]**, an aspiring **Full-Stack Developer** and an Information Technology student. I enjoy building web applications and learning how systems work behind the scenes.
+
+## 🚀 Currently Working On
+
+* Improving my skills in **React** and **Laravel**
+* Building personal projects
+* Learning **System Design** and backend fundamentals
+
+## 🛠 Tools & Technologies
+
+* JavaScript
+* React
+* PHP
+* Laravel
+* MySQL
+* Git & GitHub
+
+## 📫 How to Reach Me
+
+* Email: johncarlobacolod7@gmail.com
+* LinkedIn: https://www.linkedin.com/in/john-carlo-bacolod-98a09b377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* Portfolio: 🚧 Portfolio in progress
+
+---
+
+*Learning by building and improving every day.*
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
