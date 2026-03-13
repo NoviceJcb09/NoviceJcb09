@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm John Carlo, an aspiring **Full-Stack Developer** and an Information Technology student. I enjoy building web applications and learning how systems work behind the scenes.
+I'm **John Carlo**, an aspiring **Full-Stack Developer** and an Information Technology student. I enjoy building web applications and learning how systems work behind the scenes.
 
 ## 🚀 Currently Working On
 
