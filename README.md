@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**NoviceJcb09/NoviceJcb09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who I Am
 
-Here are some ideas to get you started:
+I'm John Carlo, an aspiring **Full-Stack Developer** and an Information Technology student. I enjoy building web applications and learning how systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+* Improving my skills in **React** and **Laravel**
+* Building personal projects
+* Learning **System Design** and backend fundamentals
+
+## 🛠 Tools & Technologies
+
+* JavaScript
+* React
+* PHP
+* Laravel
+* MySQL
+* Git & GitHub
+
+## 📫 How to Reach Me
+
+* Email: johncarlobacolod7@gmail.com
+* LinkedIn: https://www.linkedin.com/in/john-carlo-bacolod-98a09b377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* Portfolio: Still in development😅
+
+---
+
+*Learning by building and improving every day.*
